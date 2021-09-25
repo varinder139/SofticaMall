@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991109816752",
+    "project_id": "softica-mall",
+    "storage_bucket": "softica-mall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991109816752:android:253a42cf91f02323133675",
+        "android_client_info": {
+          "package_name": "com.webservice.softicamall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991109816752-plk2gj54m9tpd8t99i4k6afnn03h283e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtxI2J2E7HPWEDLx887ZTq4R9wxf_8vS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991109816752-plk2gj54m9tpd8t99i4k6afnn03h283e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProdutDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:text="Mars never ceases to push the boundaries the human imagination – one of the reasons why efforts to get a closer look of the Red Planet has been indefatigable. A photo of an unusual hole on the planet, which was discovered in 2011, was recently posted by NASA (National Aeronautics and Space Administration)
+Mars never ceases to push the boundaries the human imagination – one of the reasons why efforts to get a closer look of the Red Planet has been indefatigable. A photo of an unusual hole on the planet, which was discovered in 2011, was recently posted by NASA (National Aeronautics and Space Administration) "
+        />
+</FrameLayout>
